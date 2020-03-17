@@ -1,0 +1,1 @@
+small code snippets, from various sources
